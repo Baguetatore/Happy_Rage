@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tom.paul/Documents/Unreal Projects/WS3_V1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/WS3_V1/Content/MyContent/MyCharacter.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/WS3_V1/Content/MyContent/BP_FirstPersonCharacter/MyCharacter.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/WS3_V1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/WS3_V1/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/WS3_V1/Content/MyContent/Actor/BP_Weeping_Angels.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/WS3_V1/Content/MyContent/Actor/BP_Weeping_Angel.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/WS3_V1/Content/MyContent/Actor/BP_WeepingAngel.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/WS3_V1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/UQ/KIPVLVFDHGT6RCSK1B76PL.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/WS3_V1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/A7/M4A0IMNZ01BTB5WG61XO2D.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/WS3_V1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/WS3_V1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/VF/JSFJET9X4TW7N9MDWPH7G6.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/WS3_V1/Content/MyContent/Actor/BP_WeepingAngel1.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/WS3_V1/Content/MyContent/Actor/BP_Trigger_Toilettes1.uasset"
+			]
+		}
+	]
+}
