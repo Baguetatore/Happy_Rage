@@ -109,15 +109,7 @@
 				"/Game/PROPS/TOILETTE_POUBELLE/poubelle_B",
 				"/Game/PROPS/TOILETTE_POUBELLE_S/Material",
 				"/Game/PROPS/TOILETTE_ROBINET/lavabo",
-				"/Game/PROPS/TOILETTE_SANS_PAPIER/Tube_en_carton",
-				"/Game/PROPS/TRANSPALETTE/BASE",
-				"/Game/PROPS/TRANSPALETTE/bois",
-				"/Game/PROPS/TRANSPALETTE/buste_003",
-				"/Game/PROPS/TRANSPALETTE/buste_004",
-				"/Game/PROPS/TRANSPALETTE/corne_001",
-				"/Game/PROPS/TRANSPALETTE/Material_001",
-				"/Game/PROPS/TRANSPALETTE/partieMEtalliqueBleue_003",
-				"/Game/PROPS/TRANSPALETTE/tete_001"
+				"/Game/PROPS/TOILETTE_SANS_PAPIER/Tube_en_carton"
 			]
 		},
 		{
@@ -185,8 +177,7 @@
 			"Assets": [
 				"/Game/PROPS/MANNEQUIN_CRINOLINE/crinoline_001",
 				"/Game/PROPS/TOILETTE_SANS_PAPIER/Porte-papier_toilette",
-				"/Game/PROPS/TOILETTE_SECHE/seche_mains",
-				"/Game/PROPS/TRANSPALETTE/BOITIER"
+				"/Game/PROPS/TOILETTE_SECHE/seche_mains"
 			]
 		},
 		{
@@ -229,12 +220,6 @@
 			"ShaderMapHash": "7AFB353D6023D9405B608F99E8958D7AD94CE8C4",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Default"
-			]
-		},
-		{
-			"ShaderMapHash": "75D1974282ABBB23321A707B78F791B297F465B8",
-			"Assets": [
-				"/Game/environnement/petit_mur"
 			]
 		},
 		{
@@ -380,12 +365,6 @@
 			"ShaderMapHash": "75F13C640624E53A584DA3685270E6F3AB5517C2",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Transparent"
-			]
-		},
-		{
-			"ShaderMapHash": "04CD7E6648EB8A44A47A6DE30FABA0E6127DF2DF",
-			"Assets": [
-				"/Game/environnement/FENETRE"
 			]
 		},
 		{
@@ -587,8 +566,15 @@
 				"/Game/environnement/CLASSE/kit_salledeclasse__1__MUR_BaseColor_Mat",
 				"/Game/environnement/CLASSE/kit_salledeclasse__1__petit_mur_BaseColor_Mat",
 				"/Game/environnement/CLASSE/kit_salledeclasse__1__PORTE_MUR_CLASSE_BaseColor_Mat",
+				"/Game/environnement/CLASSE/kit_salledeclasse__1__PORTE_MUR_COULOIR_BaseColor_Mat",
 				"/Game/environnement/CLASSE/kit_salledeclasse__1__RELIEF_MUR_BaseColor_Mat",
 				"/Game/environnement/CLASSE/kit_salledeclasse__1__SOL_BaseColor_Mat",
+				"/Game/environnement/FENETRE",
+				"/Game/environnement/kit_salledeclasse__1__MUR_BaseColor_Mat",
+				"/Game/environnement/petit_mur",
+				"/Game/environnement/PORTE_MUR_CLASSE",
+				"/Game/environnement/RELIEF_MUR",
+				"/Game/environnement/VITRES",
 				"/Game/PROPS/BOTTLE/Bottle",
 				"/Game/PROPS/DISTRIBUTEUR/ventilateur",
 				"/Game/PROPS/DISTRIBUTEUR/zone_pour_payer",
@@ -614,9 +600,7 @@
 				"/Game/PROPS/TOILETTE_WC_FERME/L’abattant",
 				"/Game/PROPS/TOILETTE_WC_FERME/WC",
 				"/Game/PROPS/TOILETTE_WC_OUVERT/L’abattant",
-				"/Game/PROPS/TOILETTE_WC_OUVERT/WC",
-				"/Game/PROPS/TRANSPALETTE/MANCHE",
-				"/Game/PROPS/TRANSPALETTE/WHEELS"
+				"/Game/PROPS/TOILETTE_WC_OUVERT/WC"
 			]
 		},
 		{
@@ -742,12 +726,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "245A25C5C15CE476B4ABD4367F48877AC6AC265E",
-			"Assets": [
-				"/Game/environnement/PORTE_MUR_CLASSE"
-			]
-		},
-		{
 			"ShaderMapHash": "D71594C921688AF8AB174E9EDAB0E72C911DEE7D",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
@@ -762,7 +740,6 @@
 		{
 			"ShaderMapHash": "2A1CAACDA55748141F6A6D8DB20A583B41F4FF1F",
 			"Assets": [
-				"/Game/environnement/MUR_CLASSE",
 				"/Game/environnement/mur_WC",
 				"/Game/environnement/murportetoilette",
 				"/Game/environnement/murtoiletteinterne",
@@ -992,12 +969,6 @@
 			"ShaderMapHash": "AD3588FE222E2A44D0B811B60204866F556B8AD3",
 			"Assets": [
 				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "221657FF248D037F845B4276334ACC35AB0938F7",
-			"Assets": [
-				"/Game/environnement/RELIEF_MUR"
 			]
 		}
 	]
